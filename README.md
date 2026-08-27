@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1137-n-th-tribonacci-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2413-smallest-even-multiple](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Prefix Sum
 |  |
 | ------- |
