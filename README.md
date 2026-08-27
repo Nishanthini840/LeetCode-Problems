@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0704-binary-search](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1044-longest-duplicate-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1122-relative-sort-array) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
