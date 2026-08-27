@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0053-maximum-subarray) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0187-repeated-dna-sequences](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bucket Sort
 |  |
