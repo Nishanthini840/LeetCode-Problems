@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0493-reverse-pairs) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0274-h-index) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -292,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
