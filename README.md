@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0645-set-mismatch) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1044-longest-duplicate-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0969-pancake-sorting](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -356,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
