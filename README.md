@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 ## Array
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Suffix Array
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Suffix Automaton
 |  |
 | ------- |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -131,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
