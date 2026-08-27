@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1408-string-matching-in-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
