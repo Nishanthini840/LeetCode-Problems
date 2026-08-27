@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0806-number-of-lines-to-write-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
+| [1480-running-sum-of-1d-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
