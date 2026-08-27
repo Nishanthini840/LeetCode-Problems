@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0806-number-of-lines-to-write-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [1044-longest-duplicate-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Sliding Window
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
