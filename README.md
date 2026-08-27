@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0459-repeated-substring-pattern](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Manacher
