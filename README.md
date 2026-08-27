@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0187-repeated-dna-sequences](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
