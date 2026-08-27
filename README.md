@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
@@ -124,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1668-maximum-repeating-substring) |
@@ -171,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Manacher
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
