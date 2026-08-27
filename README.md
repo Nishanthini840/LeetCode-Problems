@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
