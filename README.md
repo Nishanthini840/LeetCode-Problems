@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0796-rotate-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0187-repeated-dna-sequences](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 ## Binary Search
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0969-pancake-sorting](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 ## Matrix
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0164-maximum-gap) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
 | ------- |
@@ -315,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
