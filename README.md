@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0179-largest-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0078-subsets) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0148-sort-list) |
