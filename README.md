@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 ## Binary Search
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
