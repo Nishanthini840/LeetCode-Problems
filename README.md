@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
 | [1051-height-checker](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1122-relative-sort-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sliding Window
 |  |
