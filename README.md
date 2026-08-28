@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0078-subsets) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0090-subsets-ii) |
 ## Simulation
