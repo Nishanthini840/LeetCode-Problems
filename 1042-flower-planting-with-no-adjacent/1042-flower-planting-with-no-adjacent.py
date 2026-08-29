@@ -1,0 +1,28 @@
+class Solution(object):
+    def gardenNoAdj(self, n, paths):
+
+        graph = [[] for _ in range(n)]
+
+        for a, b in paths:
+            a -= 1
+            b -= 1
+
+            graph[a].append(b)
+            graph[b].append(a)
+
+        ans = [0] * n
+
+        for i in range(n):
+
+            used = set()
+
+            for j in graph[i]:
+                if ans[j] != 0:
+                    used.add(ans[j])
+
+            for flower in range(1, 5):
+                if flower not in used:
+                    ans[i] = flower
+                    break
+
+        return ans
