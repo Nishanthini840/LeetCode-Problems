@@ -536,4 +536,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
