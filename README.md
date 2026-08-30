@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0969-pancake-sorting](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0969-pancake-sorting) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0328-odd-even-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
