@@ -1,4 +1,7 @@
+import heapq
+
 class Solution:
+
     def mergeKLists(self, lists):
 
         dummy = ListNode(0)
@@ -9,6 +12,7 @@ class Solution:
         for i in range(len(lists)):
 
             if lists[i] is not None:
+
                 heapq.heappush(
                     heap,
                     (lists[i].val, i, lists[i])
@@ -22,6 +26,7 @@ class Solution:
             tail = tail.next
 
             if node.next is not None:
+
                 heapq.heappush(
                     heap,
                     (node.next.val, i, node.next)
