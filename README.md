@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -693,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
