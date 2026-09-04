@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2574-left-and-right-sum-differences](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0969-pancake-sorting](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0969-pancake-sorting) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Sorting
 |  |
 | ------- |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1122-relative-sort-array) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Quickselect
 |  |
 | ------- |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Euclidean Algorithm
 |  |
 | ------- |
