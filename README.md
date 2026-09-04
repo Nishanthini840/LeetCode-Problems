@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0969-pancake-sorting](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0969-pancake-sorting) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0645-set-mismatch) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Algorithm X
 |  |
@@ -723,4 +727,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
