@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0046-permutations) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0051-n-queens) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0695-max-area-of-island) |
@@ -662,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0052-n-queens-ii) |
 ## Hamiltonian Path
@@ -864,4 +869,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
