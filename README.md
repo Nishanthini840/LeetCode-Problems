@@ -591,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0912-sort-an-array) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -842,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
@@ -855,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Kosaraju's Algorithm
 |  |
