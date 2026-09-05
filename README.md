@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
@@ -700,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -718,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -841,12 +847,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
@@ -890,4 +898,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
