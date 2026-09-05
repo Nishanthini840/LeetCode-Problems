@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0231-power-of-two) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
