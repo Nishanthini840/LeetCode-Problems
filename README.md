@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
