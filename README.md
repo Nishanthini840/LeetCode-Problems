@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1046-last-stone-weight](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1137-n-th-tribonacci-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1668-maximum-repeating-substring) |
@@ -958,4 +960,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
