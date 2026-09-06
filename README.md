@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0140-word-break-ii) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0695-max-area-of-island) |
