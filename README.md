@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
