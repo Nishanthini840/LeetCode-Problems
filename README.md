@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
