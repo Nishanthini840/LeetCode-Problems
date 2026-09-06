@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
