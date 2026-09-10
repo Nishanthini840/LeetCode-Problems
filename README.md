@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1514-path-with-maximum-probability](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1514-path-with-maximum-probability) |
 | [1572-matrix-diagonal-sum](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1046-last-stone-weight) |
+| [1514-path-with-maximum-probability](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Geometry
 |  |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1514-path-with-maximum-probability](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Coloring
 |  |
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
+| [1514-path-with-maximum-probability](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
@@ -936,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/Nishanthini840/LeetCode-Problems/tree/master/1514-path-with-maximum-probability) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
